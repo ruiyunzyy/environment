@@ -1,4 +1,15 @@
-# PrepareEnvironment
+# IDE
+
+| 开发类型  | IDE  |
+| :------------: |:---------------:|
+| python      | PyCharm |
+| java      | intellij idea community        |
+| java web  | intellij idea professional        |
+| 前端开发  | WebStorm   |
+
+
+
+# 开发环境搭建
 
 
 [android开发环境搭建](使用android studio通过gradle管理android项目.md)
